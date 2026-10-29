@@ -27,6 +27,7 @@ public final class Integrantes {
 
         lista.add(new Tarjeta("valeryta2910", "Tatiana Acosta", "Nunca te rindas, cumple tus sueños!", "#ec9ee6"));
         lista.add(new Tarjeta("jceron125", "Jose Ceron", "tatianic", "#e02b21"));
+        lista.add(new Tarjeta("simon-mejia", "Simón Mejía", "El éxito es la suma de pequeños esfuerzos repetidos día tras día.", "#120131"));
 
         return lista;
     }
