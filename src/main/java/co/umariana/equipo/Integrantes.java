@@ -26,7 +26,7 @@ public final class Integrantes {
         List<Tarjeta> lista = new ArrayList<>();
 
         lista.add(new Tarjeta("valeryta2910", "Tatiana Acosta", "Nunca te rindas, cumple tus sueños!", "#ec9ee6"));
-        // >>> AGREGUE SU TARJETA DEBAJO DE ESTA LÍNEA <<<
+        lista.add(new Tarjeta("jceron125", "Jose Ceron", "tatianic", "#e02b21"));
 
         return lista;
     }
